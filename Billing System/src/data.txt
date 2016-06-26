@@ -1,0 +1,10 @@
+1,Samsung Galaxy s7,90000,20
+2,Huwei Honor,30000,60
+3,I Phone 6,100000,50
+4,I Phone 6s,120000,40
+5,HP Envy,130000,20
+6,Dell Inspiron 2In,90000,40
+7,Mac Book Air,150000,30
+8,Samsung T97 Laser Color Printer,20000,10
+9,Philips G4 TV,50000,20
+10,Hisense HD Tv,900000,10
